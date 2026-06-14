@@ -1,0 +1,89 @@
+{
+    "menus": [
+        {
+            "category": "BREW",
+            "status": "SOLDOUT",
+            "price": 4500,
+            "title": "Pour Over Ethiopia",
+            "description": "Floral aroma with bright citrus notes and a clean finish."
+        },
+        {
+            "category": "BREW",
+            "price": 4000,
+            "title": "House Drip Coffee",
+            "description": "Smooth medium roast brewed fresh daily."
+        },
+        {
+            "category": "BREW",
+            "price": 5000,
+            "title": "Cold Brew",
+            "description": "Slow-steeped for 18 hours with rich chocolate undertones."
+        },
+        {
+            "category": "EXPRESSO",
+            "status": "POPULAR",
+            "price": 3500,
+            "title": "Espresso",
+            "description": "Double shot of bold and balanced espresso."
+        },
+        {
+            "category": "EXPRESSO",
+            "price": 4500,
+            "title": "Americano",
+            "description": "Espresso diluted with hot water for a smooth taste."
+        },
+        {
+            "category": "EXPRESSO",
+            "price": 5500,
+            "title": "Latte",
+            "description": "Creamy steamed milk blended with rich espresso."
+        },
+        {
+            "category": "EXPRESSO",
+            "status": "SOLDOUT",
+            "price": 6000,
+            "title": "Flat White",
+            "description": "Velvety microfoam paired with a double espresso shot."
+        },
+        {
+            "category": "BAKEY",
+            "price": 2500,
+            "title": "Butter Croissant",
+            "description": "Flaky French pastry baked fresh every morning."
+        },
+        {
+            "category": "BAKEY",
+            "status": "POPULAR",
+            "price": 3000,
+            "title": "Chocolate Muffin",
+            "description": "Moist muffin packed with rich chocolate chips."
+        },
+        {
+            "category": "BAKEY",
+            "status": "SOLDOUT",
+            "price": 2800,
+            "title": "Banana Bread",
+            "description": "Homemade-style loaf with ripe banana flavor."
+        },
+        {
+            "category": "SIGNATURE",
+            "status": "POPULAR",
+            "price": 6500,
+            "title": "Caramel Sea Salt Latte",
+            "description": "Espresso, caramel syrup, and a hint of sea salt."
+        },
+        {
+            "category": "SIGNATURE",
+            "price": 7000,
+            "title": "Matcha Espresso Fusion",
+            "description": "Premium matcha layered with freshly pulled espresso."
+        },
+        {
+            "category": "SIGNATURE",
+            "status": "SOLDOUT",
+            "price": 8000,
+            "title": "Honey Lavender Latte",
+            "description": "Delicate floral notes balanced with natural honey."
+        }
+    ]
+}
